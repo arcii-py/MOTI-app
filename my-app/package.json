@@ -14,5 +14,8 @@
     "@vite-pwa/nuxt": "^0.1.0",
     "nuxt": "^3.6.5",
     "vite-plugin-pwa": "^0.16.4"
+  },
+  "dependencies": {
+    "@nuxtjs/supabase": "^1.0.2"
   }
 }
